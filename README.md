@@ -21,7 +21,7 @@ To understand how to operate the S&T GeoTronics M4 Enigma, please refer to the f
  
 ## Comms Protocol
 
- - Serial output is of the format "<KEY> <LAMP>"
+ - Serial output is of the format "{KEY} {LAMP}"
 
 ## Release Notes
 
