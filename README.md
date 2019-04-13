@@ -18,6 +18,10 @@ Depending on your type of kit, you need to install the relevant version of the c
 To understand how to operate the S&T GeoTronics M4 Enigma, please refer to the following guide:
 
  - **[BJ Gleason - Open Enigma for Dummies](docs/BJ%20Gleason%20-%20Open%20Engima%20for%20Dummies.pdf)**
+ 
+## Comms Protocol
+
+ - Serial output is of the format "<KEY> <LAMP>"
 
 ## Release Notes
 
